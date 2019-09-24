@@ -7,8 +7,7 @@ var pages = {
     'html/projects.html': 1,
     'html/education.html': 2,
     'html/work-experience.html': 3,
-    'html/contact.html': 4,
-    'html/projects/endless-runner.html': 999
+    'html/contact.html': 4
 };
 
 page_button.click(function (data) {
