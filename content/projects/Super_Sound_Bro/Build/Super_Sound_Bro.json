@@ -1,0 +1,17 @@
+{
+"companyName": "KovMan",
+"productName": "Super Sound Bro",
+"productVersion": "1.0",
+"dataUrl": "Super_Sound_Bro.data.unityweb",
+"asmCodeUrl": "Super_Sound_Bro.asm.code.unityweb",
+"asmMemoryUrl": "Super_Sound_Bro.asm.memory.unityweb",
+"asmFrameworkUrl": "Super_Sound_Bro.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
