@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Arcade Race Game",
+"productName": "Endless Runner",
 "productVersion": "1.0",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
